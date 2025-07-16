@@ -1,0 +1,156 @@
+{
+  "title": "hello",
+  "hero": {
+    "title": "Your AI Co-founder.",
+    "subtitle": "The ultimate AI toolkit to build and grow your startup.",
+    "cta_primary": "Get started",
+    "cta_secondary": "How it works"
+  },
+  "features": {
+    "title": "How does Be Startup work?",
+    "subtitle": "Transform your startup journey with AI-powered tools that handle the complexity, so you can focus on what matters most.",
+    "steps": {
+      "step1": {
+        "title": "Share Your Vision",
+        "description": "Tell our AI about your startup idea, goals, and market focus in simple conversation."
+      },
+      "step2": {
+        "title": "AI Creates Your Foundation",
+        "description": "Get comprehensive business plans, market analysis, and technical architecture instantly."
+      },
+      "step3": {
+        "title": "Launch & Scale",
+        "description": "Deploy your startup with AI-generated content, code, and ongoing mentorship support."
+      }
+    },
+    "cta_primary": "Start Building Now",
+    "cta_secondary": "See Demo"
+  },
+  "bento": {
+    "features": "Features",
+    "title": "Only platform that you will ever need",
+    "more_features": "More Features",
+    "more_title": "Everything you need to get ahead.",
+    "cards": {
+      "business": {
+        "eyebrow": "Business",
+        "title": "AI Business planner",
+        "description": "Generate a complete, investor-ready business plan in minutes."
+      },
+      "mentor": {
+        "eyebrow": "Guidance",
+        "title": "AI Mentor & Guides",
+        "description": "Step-by-step guidance and mentorship through AI-driven tutorials and personalized support for projects or learning paths."
+      },
+      "vision": {
+        "eyebrow": "Vision",
+        "title": "AI vision planner",
+        "description": "Helps you define and structure your long-term goals or business vision using AI-assisted frameworks and strategy suggestions."
+      },
+      "gpt": {
+        "eyebrow": "GPT",
+        "title": "Bestartup GPT",
+        "description": "A startup-focused AI tool that assists with ideation, planning, and execution of business models and entrepreneurial strategies."
+      },
+      "code": {
+        "eyebrow": "Development",
+        "title": "AI Code Generator",
+        "description": "Develops application infrastructure and backend for startups"
+      },
+      "image_generator": {
+        "eyebrow": "Media",
+        "title": "AI Image Generator",
+        "description": "Creates high-quality, customized images or visuals from text prompts using generative AI."
+      },
+      "voice_over": {
+        "eyebrow": "Audio",
+        "title": "AI Voice Over",
+        "description": "Converts text to realistic voice narrations using AI, suitable for videos, tutorials, and presentations."
+      },
+      "article_wizard": {
+        "eyebrow": "Content",
+        "title": "AI Article Wizard",
+        "description": "Generates well-structured articles or blog posts from brief input, optimized for readability and SEO."
+      },
+      "website_analyzer": {
+        "eyebrow": "Analysis",
+        "title": "AI Website Analyzer",
+        "description": "Evaluates website performance, usability, and SEO factors, giving actionable improvement suggestions."
+      },
+      "image_analyzer": {
+        "eyebrow": "Analysis",
+        "title": "AI Image Analyzer",
+        "description": "Analyzes images to detect objects, extract features, or provide insights for content or product analysis."
+      },
+      "speech_to_text": {
+        "eyebrow": "Transcription",
+        "title": "AI Speech-To-Text",
+        "description": "Transcribes spoken audio into accurate written text for documentation, subtitles, or note-taking."
+      },
+      "content_editor": {
+        "eyebrow": "Editing",
+        "title": "AI Content Editor",
+        "description": "Enhances written content for clarity, grammar, tone, and structure using AI-powered suggestions."
+      },
+      "doc_analyzer": {
+        "eyebrow": "Productivity",
+        "title": "AI Doc. Analyzer",
+        "description": "Reviews documents and extracts key insights, summarizes content, or checks for consistency and accuracy."
+      },
+      "presentation": {
+        "eyebrow": "Design",
+        "title": "AI Presentation",
+        "description": "Creates visually stunning templates for pitch decks, sales presentations, portfolios, and product showcases"
+      },
+      "landing_page": {
+        "eyebrow": "Web",
+        "title": "AI Landing Page maker",
+        "description": "Designs sleek, captivating landing pages for websites with built-in content generation."
+      },
+      "templates": {
+        "eyebrow": "Customization",
+        "title": "AI Customized Templates",
+        "description": "Offers ready-made templates tailored to your needs (business, design, or content), auto-filled using AI."
+      }
+    }
+  },
+  "platform": {
+    "name": "Be Startup Platform",
+    "progress": {
+      "business_plan": "Business Plan Generated",
+      "code_ready": "Code Infrastructure Ready",
+      "marketing": "Marketing Assets Created"
+    }
+  },
+  "footer": {
+    "cta": {
+      "heading": "Get started",
+      "title": "Ready to dive in?",
+      "subtitle": "Start your free trial today.",
+      "description": "Get the cheat codes for selling and unlock your team's revenue potential.",
+      "button": "Get started"
+    },
+    "sitemap": {
+      "product": {
+        "title": "Product",
+        "pricing": "Pricing"
+      },
+      "company": {
+        "title": "Company",
+        "blog": "Blog",
+        "about": "About"
+      },
+      "support": {
+        "title": "Support",
+        "help_center": "Help center",
+        "community": "Community"
+      },
+      "legal": {
+        "title": "Legal",
+        "terms": "Terms of service",
+        "privacy": "Privacy policy"
+      }
+    },
+    "copyright": "© 2024 Be Startup. All rights reserved."
+  }
+}

@@ -1,0 +1,24 @@
+@import 'tailwindcss';
+
+:root {
+  --font-family: "Raleway", system-ui, sans-serif;
+}
+
+@theme inline {
+  --font-sans: var(--font-family);
+  --radius-4xl: 2rem;
+}
+
+* {
+  @apply box-border;
+  font-family: var(--font-sans), sans-serif;
+}
+
+@keyframes move-x {
+  0% {
+    transform: translateX(var(--move-x-from));
+  }
+  100% {
+    transform: translateX(var(--move-x-to));
+  }
+}
