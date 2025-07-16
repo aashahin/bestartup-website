@@ -12,6 +12,8 @@ export const metadata: Metadata = {
   },
 }
 
+export const dynamic = "force-dynamic";
+
 const fontEn = Raleway({
   subsets: ['latin'],
   weight: ['300', '400', '500', '600', '700'],

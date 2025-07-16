@@ -1,5 +1,4 @@
-import { withPayload } from '@payloadcms/next/withPayload';
-import createNextIntlPlugin from 'next-intl/plugin';
+import createNextIntlPlugin from 'next-intl/plugin'
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -12,20 +11,16 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: '*',
-      }
-    ]
+      },
+    ],
   },
   experimental: {
-    optimizeCss: true,
-    inlineCss: true
+    inlineCss: true,
   },
-  compiler: {
-    removeConsole: process.env.NODE_ENV === 'production',
-  }
-};
+}
 
-const withNextIntl = createNextIntlPlugin();
+const withNextIntl = createNextIntlPlugin()
 
-const intlNextConfig = withNextIntl(nextConfig);
+const intlNextConfig = withNextIntl(nextConfig)
 
-export default withPayload(intlNextConfig, { devBundleServerPackages: false });
+export default intlNextConfig

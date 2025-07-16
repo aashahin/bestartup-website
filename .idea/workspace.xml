@@ -6,7 +6,28 @@
   <component name="ChangeListManager">
     <list default="true" id="a33273ae-6b86-4041-941f-a6169fefb370" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/(frontend)/pricing/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(frontend)/pricing/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(frontend)/company/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/company/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(frontend)/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(frontend)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(frontend)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(frontend)/pricing/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pricing/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(frontend)/privacy/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/privacy/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(frontend)/terms/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/terms/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(payload)/admin/[[...segments]]/not-found.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(payload)/admin/[[...segments]]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(payload)/admin/importMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(payload)/api/[...slug]/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(payload)/api/graphql-playground/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(payload)/api/graphql/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(payload)/custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(payload)/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Media.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Posts.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Users.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/core/logo.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/payload-types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/payload.config.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +75,7 @@
       <recent name="$PROJECT_DIR$/src/collections" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src/components/core" />
       <recent name="$PROJECT_DIR$/public/screenshots" />
       <recent name="$PROJECT_DIR$/src/app/(app)" />
@@ -90,7 +112,7 @@
       <updated>1752589336959</updated>
       <workItem from="1752589338974" duration="8296000" />
       <workItem from="1752641642688" duration="3847000" />
-      <workItem from="1752645526298" duration="17402000" />
+      <workItem from="1752645526298" duration="19014000" />
     </task>
     <servers />
   </component>
