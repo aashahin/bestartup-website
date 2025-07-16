@@ -370,12 +370,14 @@ function FeatureItem({
   )
 }
 
-export default function Pricing({
+export default async function Pricing({
   searchParams,
 }: {
-  searchParams: { tier?: string }
+  searchParams: Promise<{ tier?: string }>
 }) {
-  let selectedTier = tiers.find((tier) => tier.slug === searchParams.tier) ?? tiers[1]
+  const params = await searchParams
+  let selectedTier =
+    tiers.find((tier) => tier.slug === params.tier) ?? tiers[1]
 
   return (
     <main className="overflow-hidden">

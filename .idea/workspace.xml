@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a33273ae-6b86-4041-941f-a6169fefb370" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/dashboard-preview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logo-dark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logo-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BackgroundAurora.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Hero.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i18n/ui.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i18n/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Layout.astro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/[...lang]/index.astro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/astro.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/astro.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.astro" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.astro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(frontend)/pricing/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(frontend)/pricing/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +90,7 @@
       <updated>1752589336959</updated>
       <workItem from="1752589338974" duration="8296000" />
       <workItem from="1752641642688" duration="3847000" />
-      <workItem from="1752645526298" duration="16935000" />
+      <workItem from="1752645526298" duration="17402000" />
     </task>
     <servers />
   </component>
