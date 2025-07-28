@@ -1,0 +1,1 @@
+export const dashboardUrl = "https://dash.bestartup.ai";

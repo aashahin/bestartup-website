@@ -1,0 +1,411 @@
+{
+  "Navbar": {
+    "about": "About",
+    "faqs": "FAQs",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "getStarted": "Get Started",
+    "logoAlt": "BeStartup Logo",
+    "starsIconAlt": "Stars Icon",
+    "lightModeIconAlt": "Light Mode Icon",
+    "darkModeIconAlt": "Dark Mode Icon",
+    "toggleThemeAria": "Toggle theme",
+    "toggleMenuAria": "Toggle menu",
+    "switchLanguageAria": "Switch Language"
+  },
+  "Hero": {
+    "description": "Kickstart your business with an all-in-one AI platform. Generate business plans, code, websites, and more in minutes, not months.",
+    "headline_part1": "The Only Platform",
+    "headline_part2": "You Need to Build with",
+    "headline_part3": "Your Ultimate",
+    "headline_part4_gradient": [
+      "AI Business Planner",
+      "AI Code Generator",
+      "AI Mentor",
+      "AI Website Maker"
+    ],
+    "ctaButton": "Start Building for Free",
+    "ctaSubtext": "No credit card required",
+    "imageAlt": "BeStartup AI Platform Preview"
+  },
+  "FeaturesCarousel": {
+    "title_part1": "What Can",
+    "title_gradient": "BeStartup",
+    "title_part2": "Do For You?",
+    "features": [
+      { "tag": "Simplicity", "title": "Build Everything In Minutes, Not Months" },
+      { "tag": "Integration", "title": "Multiple AI models working seamlessly together" },
+      { "tag": "Accuracy", "title": "Proven results with expert-level precision" },
+      { "tag": "Scalability", "title": "Infrastructure that grows with your startup" }
+    ],
+    "prevAriaLabel": "Previous feature",
+    "nextAriaLabel": "Next feature"
+  },
+  "HowItWorks": {
+    "title": "How does BeStartup work?",
+    "subtitle": "It's Simple And Easy whether you have things ready or you're starting from scratch",
+    "steps": [
+      {
+        "title": "Sign Up & Welcome",
+        "description": "Create your account in seconds and get immediate access to the entire platform. No complex onboarding required.",
+        "image": "/how-it-works/step1.png"
+      },
+      {
+        "title": "AI Business Planning",
+        "description": "Answer a few simple questions about your idea, and our AI will generate a comprehensive business plan and canvas for you.",
+        "image": "/how-it-works/step2.png"
+      },
+      {
+        "title": "Presentation Creation",
+        "description": "Generate professional pitch decks and presentations or choose from templates, automatically filled with your business data.",
+        "image": "/how-it-works/step3.png"
+      },
+      {
+        "title": "Landing Page Design",
+        "description": "Instantly create a stunning, responsive landing page for your new venture, complete with AI-generated copy and visuals.",
+        "image": "/how-it-works/step4.png"
+      },
+      {
+        "title": "AI Customized Templates",
+        "description": "Access a library of templates for legal documents, marketing materials, and more, all customized by AI to fit your business.",
+        "image": "/how-it-works/step5.svg"
+      }
+    ]
+  },
+  "Features": {
+    "title": "Powerful AI Features for Every Need",
+    "tabs": {
+      "business": "Business & Planning",
+      "content": "Content & Communication",
+      "media": "Media & Design",
+      "technical": "Technical & Automation"
+    },
+    "cards": {
+      "biz-planner": {
+        "title": "Business Planner",
+        "description": "Create comprehensive business plans, conduct SWOT analysis, and develop strategic roadmaps for your venture"
+      },
+      "bestartup-gpt": {
+        "title": "Startup GPT Assistant",
+        "description": "Get expert startup advice, pitch deck guidance, and entrepreneurial insights tailored to your industry"
+      },
+      "ai-templates": {
+        "title": "AI Business Templates",
+        "description": "Access ready-made templates for business plans, financial models, and strategic documents"
+      },
+      "ai-mentors": {
+        "title": "AI Expert Mentors",
+        "description": "Connect with specialized AI mentors across business, development, and marketing domains"
+      },
+      "landing-page": {
+        "title": "Landing Page Builder",
+        "description": "Create high-converting landing pages with AI-powered design suggestions and optimization"
+      },
+      "doc-analyzer": {
+        "title": "Document Intelligence",
+        "description": "Analyze contracts, reports, and documents to extract key insights and actionable information"
+      },
+      "article-wizard": {
+        "title": "Article & Blog Wizard",
+        "description": "Generate compelling articles, blog posts, and editorial content with AI-powered writing assistance"
+      },
+      "image-analyzer-content": {
+        "title": "Visual Content Analyzer",
+        "description": "Extract text, analyze images, and generate content descriptions from visual materials"
+      },
+      "image-generator": {
+        "title": "AI Image Generator",
+        "description": "Create stunning visuals, graphics, and artwork using advanced AI image generation models"
+      },
+      "content-editor": {
+        "title": "Smart Content Editor",
+        "description": "Edit, enhance, and optimize your content with AI-powered grammar, style, and tone suggestions"
+      },
+      "voice-over": {
+        "title": "Voice Over Studio",
+        "description": "Generate professional voice overs and narrations in multiple languages and speaking styles"
+      },
+      "analyzer": {
+        "title": "Website Performance Analyzer",
+        "description": "Comprehensive website analysis including SEO, performance metrics, and optimization recommendations"
+      },
+      "code-gen": {
+        "title": "Code Generator & Optimizer",
+        "description": "Generate, review, and optimize code across multiple programming languages with AI assistance"
+      },
+      "speech-to-text": {
+        "title": "Speech Recognition Engine",
+        "description": "Convert audio recordings and live speech to accurate text with advanced transcription technology"
+      },
+      "presentation": {
+        "title": "AI Presentation Maker",
+        "description": "Create professional presentations and slide decks with intelligent design and content suggestions"
+      },
+      "swot": {
+        "title": "SWOT Analysis Framework",
+        "s": "S",
+        "w": "W",
+        "o": "O",
+        "t": "T",
+        "strengths": "Strengths",
+        "weaknesses": "Weaknesses",
+        "opportunities": "Opportunities",
+        "threats": "Threats"
+      }
+    }
+  },
+  "TestimonialsAndCta": {
+    "cta": {
+      "title": "Tell Us More About Your Business",
+      "subtitle": "Share your startup vision and let AI help you transform it into reality",
+      "placeholder": "Write a description for your startup business...",
+      "ariaLabel": "Business Description",
+      "button": "Try Now For Free",
+      "submitting": "Processing..."
+    },
+    "testimonials": {
+      "title": "Don't Just Take Our Word For It",
+      "userCount": "3,940+",
+      "subtitle": "Happy Startup Users",
+      "trustIndicators": {
+        "verified": "Verified Reviews",
+        "rating": "4.9/5 Average Rating",
+        "activeUsers": "Active This Month"
+      },
+      "testimonial1": {
+        "quote": "This platform completely revolutionized how we approach business planning. The AI insights helped us identify opportunities we never would have seen otherwise.",
+        "name": "Sarah Johnson",
+        "position": "CEO",
+        "company": "TechFlow Innovations"
+      },
+      "testimonial2": {
+        "quote": "The workflow automation features saved us countless hours. We're now delivering projects 50% faster and our clients couldn't be happier.",
+        "name": "Michael Chen",
+        "position": "Product Manager",
+        "company": "Rocket Stars Tech"
+      },
+      "testimonial3": {
+        "quote": "Unparalleled support and an incredibly intuitive interface. This is exactly what every modern startup needs to succeed in today's market.",
+        "name": "Elena Rodriguez",
+        "position": "Lead Developer",
+        "company": "Future Solutions Labs"
+      }
+    }
+  },
+  "PricingSection": {
+    "title": "Choose Your Perfect Plan",
+    "subtitle": "Scale your startup with the right tools and support. Start free, upgrade as you grow.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "perMonth": "per month",
+    "billedYearly": "billed yearly",
+    "save2Months": "Save 2 months",
+    "discount": "discount",
+    "mostPopular": "Most Popular",
+    "featuresIncluded": "What's included:",
+    "subscribeNow": "Get Started",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "description": "Perfect for testing our AI tools.",
+        "features": {
+          "uses": "3 uses per AI tool per month",
+          "access": "Access to all 15+ AI tools",
+          "templates": "Basic templates and guides",
+          "support": "Email support",
+          "community": "Community access"
+        }
+      },
+      "professional": {
+        "name": "Professional",
+        "description": "Best for growing startups and entrepreneurs.",
+        "features": {
+          "uses": "10 uses per AI tool per month",
+          "access": "Access to all 15+ AI tools",
+          "templates": "Premium templates and guides",
+          "support": "Priority email support",
+          "export": "Advanced export options"
+        }
+      }
+    }
+  },
+  "Cta": {
+    "question": "Do You Have Any Questions?",
+    "checkOut": "You Can Check Our",
+    "faqsLink": "FAQs",
+    "or": "Or",
+    "contactLink": "Contact Us",
+    "cardTitle": "Your Success Is A Click Away",
+    "cardSubtitle": "+100 Templates, Chatbots And Tools Ready To Help You Get Everything Done",
+    "joinButton": "Join Now",
+    "noCreditCard": "No Credit Card Required",
+    "backgroundGridAria": "Background grid pattern"
+  },
+  "Footer": {
+    "mission": "Our mission is to empower startups with the best tools for planning, presenting, and growing their business.",
+    "company": "Company",
+    "followUs": "Follow Us",
+    "about": "About Us",
+    "faqs": "FAQs",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "scrollToTopAria": "Scroll to top",
+    "copyright": "All rights reserved"
+  },
+  "AboutPage": {
+    "metaTitle": "About",
+    "metaDescription": "Discover how Bestartup AI provides everything you need to kickstart your business in minutes, from an AI business planner to a code generator.",
+    "whatIsTitle": "What is Bestartup AI?",
+    "kickStartTitle": "Kick Start Your Business In No Time",
+    "kickStartDescription": "Normal accelerators make Business models, Business canvas, marketing plans in 4–6 months aprox. but with Bestartup, you can have everything you need in under minutes.",
+    "featuresSectionTitle": "The only platform you will ever need",
+    "features": {
+      "businessPlanner": {
+        "title": "AI Business Planner",
+        "description": "Generate a complete, investor-ready business plan in minutes."
+      },
+      "mentorGuides": {
+        "title": "AI Mentor & Guides",
+        "description": "Step-by-step guidance and mentorship through AI-driven tutorials and personalized support."
+      },
+      "visionPlanner": {
+        "title": "AI Vision Planner",
+        "description": "Helps you define and structure your long-term goals or business vision using AI-assisted frameworks."
+      },
+      "bestartupGpt": {
+        "title": "Bestartup GPT",
+        "description": "A startup-focused AI that assists with ideation, planning, and execution of business models."
+      },
+      "codeGenerator": {
+        "title": "AI Code Generator",
+        "description": "Develops application infrastructure and backend for startups."
+      },
+      "imageGenerator": {
+        "title": "AI Image Generator",
+        "description": "Creates high-quality, customized images or visuals from text prompts using generative AI."
+      },
+      "voiceOver": {
+        "title": "AI Voice Over",
+        "description": "Converts text to realistic voice narrations for videos, tutorials, and presentations."
+      },
+      "articleWizard": {
+        "title": "AI Article Wizard",
+        "description": "Generates well-structured articles or blog posts from brief input, optimized for readability and SEO."
+      },
+      "websiteAnalyzer": {
+        "title": "AI Website Analyzer",
+        "description": "Evaluates website performance, usability, and SEO, giving actionable improvement suggestions."
+      },
+      "imageAnalyzer": {
+        "title": "AI Image Analyzer",
+        "description": "Analyzes images to detect objects, extract features, or provide insights for content analysis."
+      },
+      "speechToText": {
+        "title": "AI Speech-To-Text",
+        "description": "Transcribes spoken audio into accurate written text for documentation or subtitles."
+      },
+      "contentEditor": {
+        "title": "AI Content Editor",
+        "description": "Enhances written content for clarity, grammar, tone, and structure using AI-powered suggestions."
+      },
+      "docAnalyzer": {
+        "title": "AI Doc. Analyzer",
+        "description": "Reviews documents and extracts key insights, summarizes content, or checks for consistency."
+      },
+      "presentation": {
+        "title": "AI Presentation",
+        "description": "Creates stunning templates for pitch decks, portfolios, and product showcases."
+      },
+      "landingPageMaker": {
+        "title": "AI Landing Page Maker",
+        "description": "Designs sleek, captivating landing pages for websites with built-in content generation."
+      },
+      "customizedTemplates": {
+        "title": "AI Customized Templates",
+        "description": "Offers ready-made templates tailored to your needs, auto-filled using AI."
+      }
+    }
+  },
+  "FaqsPage": {
+    "metaTitle": "Frequently Asked Questions",
+    "metaDescription": "Got questions about Bestartup AI? Find your answers here. Learn about our features, security, and how to get started.",
+    "title": "Frequently Asked Question",
+    "subtitle": "Got Questions? We've Got Answers",
+    "questions": [
+      {
+        "q": "What Is BeStartup AI?",
+        "a": "BeStartup AI is an all-in-one platform designed to accelerate the startup journey. It uses artificial intelligence to help founders generate business plans, create marketing strategies, build application infrastructure, and much more, all in a fraction of the time it would normally take."
+      },
+      {
+        "q": "Do I Need Business Experience To Use The Platform?",
+        "a": "Not at all! BeStartup AI is designed for everyone, from seasoned entrepreneurs to first-time founders. Our AI Mentor & Guides provide step-by-step assistance, making complex business tasks simple and accessible."
+      },
+      {
+        "q": "Is My Data Safe And Private?",
+        "a": "Yes, absolutely. We prioritize your data security and privacy. All your information and projects are encrypted and stored securely. We adhere to strict data protection policies to ensure your intellectual property is always safe."
+      },
+      {
+        "q": "Can I Customize The Templates And Tools?",
+        "a": "Yes! Customization is a core feature. Our AI-powered templates for business plans, presentations, and landing pages can be tailored to your specific brand and vision. The tools are flexible to adapt to your unique startup needs."
+      },
+      {
+        "q": "Do You Offer Customer Support?",
+        "a": "Yes, we offer comprehensive customer support to help you with any questions or issues you may encounter. Our team is available to ensure you get the most out of the BeStartup AI platform."
+      }
+    ]
+  },
+  "ContactPage": {
+    "metaTitle": "Contact Us",
+    "metaDescription": "Get in touch with the Bestartup AI team. We're here to support every step of your journey.",
+    "title": "Feel Free To Get In Touch",
+    "subtitle": "We're your AI-powered co-founder here to support every step of your journey",
+    "emailButton": "Support@Bestartup.Ai",
+    "socialsTitle": "Our Social Media",
+    "formTitle": "Contact Us",
+    "formSubtitle": "We're Here To Help. Let's Talk.",
+    "form": {
+      "namePlaceholder": "Name",
+      "emailPlaceholder": "E-Mail",
+      "messagePlaceholder": "Your Message...",
+      "submitButton": "Send Message",
+      "submitSuccess": "Message sent successfully! We'll get back to you soon.",
+      "submitError": "An error occurred. Please try again."
+    }
+  },
+  "PrivacyPage": {
+    "metaTitle": "Privacy Policy",
+    "metaDescription": "Learn how Bestartup AI collects, uses, and protects your personal information. Your privacy and data security are our top priorities.",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated:",
+    "sections": [
+      {
+        "title": "1. Introduction",
+        "content": "Welcome to Bestartup AI ('we', 'us', or 'our'). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our platform and services. By using our services, you agree to the collection and use of information in accordance with this policy."
+      },
+      {
+        "title": "2. Information We Collect",
+        "content": "We may collect personal information that you provide to us directly, such as your name, email address, and payment information. We also collect data you generate on the platform, including business plans, marketing content, and project data. Additionally, we automatically collect usage data, such as your IP address, browser type, and interaction with our services, to improve our platform."
+      },
+      {
+        "title": "3. How We Use Your Information",
+        "content": "We use the information we collect to: provide, operate, and maintain our services; improve, personalize, and expand our services; understand and analyze how you use our platform; develop new products, services, features, and functionality; communicate with you for customer service, updates, and marketing purposes; process your transactions; and find and prevent fraud."
+      },
+      {
+        "title": "4. Data Security",
+        "content": "We implement a variety of security measures to maintain the safety of your personal information. Your data is stored on secure servers, and we use encryption to protect sensitive information transmitted online. While we strive to use commercially acceptable means to protect your Personal Information, no method of transmission over the Internet or method of electronic storage is 100% secure."
+      },
+      {
+        "title": "5. Your Data Protection Rights",
+        "content": "Depending on your location, you may have the following rights regarding your personal information: the right to access, the right to rectification, the right to erasure, the right to restrict processing, the right to object to processing, and the right to data portability. To exercise these rights, please contact us."
+      },
+      {
+        "title": "6. Changes to This Privacy Policy",
+        "content": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the 'Last Updated' date. You are advised to review this Privacy Policy periodically for any changes."
+      },
+      {
+        "title": "7. Contact Us",
+        "content": "If you have any questions about this Privacy Policy, please feel free to contact us at Support@Bestartup.Ai. We are here to help and address any concerns you may have."
+      }
+    ]
+  }
+}
