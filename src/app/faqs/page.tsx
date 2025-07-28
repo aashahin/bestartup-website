@@ -3,10 +3,11 @@ import type { Metadata } from 'next'
 import { getTranslations } from 'next-intl/server'
 
 export async function generateMetadata({
-  params: { locale },
+  params,
 }: {
-  params: { locale: string }
+  params: Promise<{ locale: string }>
 }): Promise<Metadata> {
+  const { locale } = await params
   const t = await getTranslations({ locale, namespace: 'FaqsPage' })
   return {
     title: t('metaTitle'),
@@ -15,8 +16,8 @@ export async function generateMetadata({
 }
 
 export default async function FaqsPage() {
-  const t = await getTranslations('FaqsPage');
-  const faqs: { q: string; a: string }[] = t.raw('questions');
+  const t = await getTranslations('FaqsPage')
+  const faqs: { q: string; a: string }[] = t.raw('questions')
 
   return (
     <>
@@ -26,10 +27,7 @@ export default async function FaqsPage() {
         aria-hidden="true"
       >
         <div className="absolute left-[max(50%,25rem)] top-0 h-[64rem] w-[128rem] -translate-x-1/2 [mask-image:radial-gradient(closest-side,white,transparent)]">
-          <svg
-            className="absolute inset-0 h-full w-full"
-            aria-hidden="true"
-          >
+          <svg className="absolute inset-0 h-full w-full" aria-hidden="true">
             <defs>
               {/* Using a unique ID for this page's gradient */}
               <radialGradient id="faq-gradient">
@@ -42,7 +40,7 @@ export default async function FaqsPage() {
               width="100%"
               height="100%"
               fill="url(#faq-gradient)"
-              className="dark:hidden opacity-40"
+              className="opacity-40 dark:hidden"
             />
             {/* Dark mode gradient */}
             <rect
@@ -56,14 +54,14 @@ export default async function FaqsPage() {
         </div>
       </div>
 
-      <main className="relative min-h-screen bg-transparent pt-32 text-slate-900 dark:text-white lg:pt-36">
-        <div className="mx-auto max-w-4xl px-4 pb-20 sm:px-6 lg:px-8 md:pb-32">
+      <main className="relative min-h-screen bg-transparent pt-32 text-slate-900 lg:pt-36 dark:text-white">
+        <div className="mx-auto max-w-4xl px-4 pb-20 sm:px-6 md:pb-32 lg:px-8">
           {/* Header */}
           <header className="mb-12 text-center md:mb-16">
-            <h1 className="text-4xl font-bold tracking-tight text-slate-900 dark:text-white sm:text-5xl">
+            <h1 className="text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl dark:text-white">
               {t('title')}
             </h1>
-            <p className="mt-4 text-base text-slate-600 dark:text-slate-300 md:text-lg">
+            <p className="mt-4 text-base text-slate-600 md:text-lg dark:text-slate-300">
               {t('subtitle')}
             </p>
           </header>
@@ -77,5 +75,5 @@ export default async function FaqsPage() {
         </div>
       </main>
     </>
-  );
+  )
 }

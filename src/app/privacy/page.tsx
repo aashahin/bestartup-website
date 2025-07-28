@@ -3,10 +3,11 @@ import { getTranslations } from 'next-intl/server'
 
 // This is a Server Component, so we can generate metadata directly.
 export async function generateMetadata({
-  params: { locale },
+  params,
 }: {
-  params: { locale: string }
+  params: Promise<{ locale: string }>
 }): Promise<Metadata> {
+  const { locale } = await params
   const t = await getTranslations({ locale, namespace: 'PrivacyPage' })
   return {
     title: t('metaTitle'),
